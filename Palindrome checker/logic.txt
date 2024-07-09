@@ -1,0 +1,4 @@
+If the reversed number is the same as the original number, then the number is a palindrome. 
+To understand this approach better, let's take an example. 
+Suppose we want to check if the number 12321 is a palindrome. We can reverse the digits of the number to get 12321.
+A string is called a palindrome if the reverse of the string is the same as the original one. Example: “madam”, “racecar”,
