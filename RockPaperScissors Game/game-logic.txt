@@ -1,0 +1,9 @@
+
+ Building a Rock, Paper, Scissors Game
+
+
+Here are the criteria for the player to win a round:
+
+    If the player chooses "Rock" and the computer chooses "Scissors"
+    If the player chooses "Scissors" and the computer chooses "Paper"
+    If the player chooses "Paper" and the computer chooses "Rock"
